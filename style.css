@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+.nav-link {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
