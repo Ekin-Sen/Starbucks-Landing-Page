@@ -12,3 +12,23 @@ a {
     text-decoration: none;
     color: inherit;
 }
+
+.text_first {
+    background-color: #d4e9e2;
+}
+
+.img_frst {
+    background-color: #00623f;
+}
+
+.img_scnd {
+    background-color: #f6bfd9;
+}
+
+.img_thrd {
+    background-color: #fff4d4;
+}
+
+.img_frth {
+    background-color: #d4e9e2;
+}
