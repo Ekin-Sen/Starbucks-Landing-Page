@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 .nav-link {
@@ -13,22 +14,22 @@ a {
     color: inherit;
 }
 
-.text_frst {
-    background-color: #d4e9e2;
-}
-
 .img_frst {
-    background-color: #00623f;
+    background-color: #d4e9e2;
 }
 
 .img_scnd {
-    background-color: #f6bfd9;
+    background-color: #006241;
 }
 
 .img_thrd {
-    background-color: #fff4d4;
+    background-color: #f6bfd9;
 }
 
 .img_frth {
-    background-color: #d4e9e2;
+    background-color: #fff4d4;
+}
+
+ul.foot > li > a:hover{
+    text-decoration: underline;
 }
